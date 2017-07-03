@@ -1,0 +1,55 @@
+html {
+	height:100%;
+	width: 100%;
+}
+body {
+	font-family: "Arial";
+	font-size:12px;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+}
+
+.timeline{
+	height: 100%;
+	width: 25%;
+	background-color: lightgray;
+	float:left;
+
+
+}
+
+.cal{
+	margin: 0 auto;
+
+}
+
+.calendar{
+	height: 100%;
+	width: 50%;
+	background-color: gray;
+	float: left;
+
+}
+
+.toolbar{
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+.options{
+	background-color:blue;
+	height: 40%;
+}
+.stats{
+	background-color: green;
+	height: 60%;
+}
+
+.cal2{
+	background-color: rgba(0,0,50,.3);
+}
